@@ -2,7 +2,7 @@
 	<img width="600" height="600" src="art/iconOG.png"> 
 </p> -->
 
-# Friday Night Funkin': Indie Cross
+# Friday Night Funkin': bimbie brossb
 ## About
 FNF: Indie Cross is a massive community collaboration with the goal of bringing together an ultimate rhythm gaming experience
 
